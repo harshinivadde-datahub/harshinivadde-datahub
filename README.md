@@ -1,15 +1,85 @@
-# harshinivadde
-# 💫 About Me:
-Most data problems aren't really data problems.<br>They're structural, broken pipelines, undefined KPIs,<br>dashboards built on assumptions nobody tested.<br><br>I'm Harshini Vadde, an MS Information Systems candidate at UT Arlington<br>with a focus on data engineering, analytical modeling, and BI systems<br>that hold up under scrutiny.<br><br>My work sits at the intersection of data architecture and decision intelligence, <br>designing ETL workflows that don't just move data, but validate it;<br>building star schema models that make metrics reproducible;<br>and developing dashboards that give operators answers, not just charts.<br><br>I care about the infrastructure beneath the insight.<br>Anyone can visualize clean data. The harder problem is building<br>the system that produces clean data reliably.<br><br>─────────────────────────────────────────────<br>  Core stack  →  SQL · Python (Pandas, NumPy) · Power BI · Tableau · MySQL<br>  Focus areas →  ETL design · star schema modeling · KPI frameworks · EDA<br>  Education   →  MS Information Systems, UT Arlington — May 2026<br>  Status      →  Actively seeking data analyst / BI analyst roles<br>  Contact     →  vaddeharshini.c@gmail.com · Arlington, TX<br>─────────────────────────────────────────────<br><br>Projects in this portfolio:<br><br>  Operations Intelligence Platform<br>  → Star schema model · 50K+ transactional records · SQL + Tableau<br>  → Revenue trends, cost variance, operational efficiency KPIs<br><br>  Unified Data Pipeline & Reporting Automation<br>  → Python ETL · multi-source ingestion · Pandas + MySQL<br>  → Automated validation, standardized KPI definitions<br><br>  IT Incident & Performance Analytics<br>  → 10K+ incident records · SLA compliance · root cause analysis<br>  → Priority-based drill-downs, resolution time distribution
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=534AB7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Harshini+Vadde+%F0%9F%91%8B;MS+Information+Systems+%40+UT+Arlington;Data+Analyst+%7C+BI+Engineer+%7C+SQL+%2B+Python;I+build+the+infrastructure+behind+the+insight.)](https://git.io/typing-svg)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/harshini-vadde-367530272) 
+</div>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+---
 
+## 🧠 About Me
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+```python
+harshini = {
+    "focus"     : ["ETL Pipelines", "Star Schema Modeling", "KPI Dashboards"],
+    "stack"     : ["SQL", "Python", "Power BI", "Tableau", "MySQL"],
+    "currently" : "MS Information Systems @ UT Arlington (May 2026)",
+    "seeking"   : "Data Analyst / BI Analyst roles",
+    "belief"    : "Anyone can visualize clean data. The harder problem is building the system that produces it reliably."
+}
+```
 
+> Most data problems aren't really data problems — they're structural.
+> Broken pipelines, undefined KPIs, dashboards built on assumptions nobody tested.
+> I fix that.
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Stack | Highlights |
+|---|---|---|
+| [Operations Intelligence Platform](https://github.com/harshinivadde-datahub/operations-intelligence-platform) | SQL · Tableau · Star Schema | 50K+ records · revenue, cost variance & efficiency KPIs |
+| [Unified Data Pipeline & Reporting Automation](https://github.com/harshinivadde-datahub/data-pipeline-reporting-automation) | Python · Pandas · MySQL | Multi-source ETL · automated validation & transformation |
+| [IT Incident & Performance Analytics](https://github.com/harshinivadde-datahub/it-incident-performance-analytics) | SQL · Power BI · DAX | 10K+ records · SLA compliance · root cause analysis |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=harshinivadde-datahub&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshinivadde-datahub&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=harshinivadde-datahub&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshini-vadde-367530272)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaddeharshini.c@gmail.com)
+
+</div>
+
+<div align="center">
+<img src="https://visitcount.itsvg.in/api?id=harshinivadde-datahub&label=Profile%20Views&color=6&icon=0&pretty=true" />
+</div>
