@@ -54,23 +54,6 @@ harshini = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=harshinivadde-datahub&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshinivadde-datahub&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=harshinivadde-datahub&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
